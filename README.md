@@ -19,9 +19,9 @@ Problem 1: To get ACF and CPT to work together. I don’t know if I made those i
 Problem  2: Finding good images. I used Pixabay to look for copyright free images and it was hard to find images that would look like it would be made by one person. 
 Problem 3: To make the PHP-templates work for the first time. I made some wrong naming choices, so it was kind of tricky to keep up with underscore and hyphens. 
 ## Results and outcome 
-! (\screenshots\ACF-editor.png) 
-! (/screenshots/archive-template.png)
-!(/screenshots/single-post-template.png)
+![](/screenshots/ACF-editor.png) 
+![](/screenshots/archive-template.png)
+![](/screenshots/single-post-template.png)
 
 ## What I would do differently: 
 I think I would make it with just ACF. The CPT UI plugin added unnecessary complexity and I sometimes lost track of where to manage my custom post type settings. The next time with PHP-template would also be easier, so I think that the template itself can be cleaner and faster to work with. In the next project I can use these templates as a reference. 
