@@ -2,6 +2,17 @@
 
 ## Project Title: 
 Sara Mäkinen - Simple Portfolio Site
+
+## Table of contents
+- [Project overview](#project-overview)
+- [Goals & requirements](#goals--requirements)
+- [Tech stack](#tech-stack)
+- [My process and approach](#my-process-and-approach)
+- [Challenges](#challenges)
+- [Results and outcome](#results-and-outcome)
+- [What I would do differently](#what-i-would-do-differently)
+- [Links](#links)
+
 ## Project overview:
 This is a simple Portfolio Site. I designed this site for a fictional designer. She has mostly worked with Nordic brands. Unlike a standard page-builder site, this portfolio uses a custom post type with Advanced Custom Fields and PHP templates to manage and display work dynamically.
 ## Goals & requirements: 
