@@ -19,7 +19,7 @@ Problem 1: To get ACF and CPT to work together. I don’t know if I made those i
 Problem  2: Finding good images. I used Pixabay to look for copyright free images and it was hard to find images that would look like it would be made by one person. 
 Problem 3: To make the PHP-templates work for the first time. I made some wrong naming choices, so it was kind of tricky to keep up with underscore and hyphens. 
 ## Results and outcome 
-! (/screenshots/ACF-editor.png)
+! (\screenshots\ACF-editor.png) 
 ! (/screenshots/archive-template.png)
 !(/screenshots/single-post-template.png)
 
